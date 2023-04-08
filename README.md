@@ -1,5 +1,5 @@
 # mit-ids-stock-news-significance
-IDS.012 is a hands-on MIT data analysis course that introduces the interplay
+IDS.012 is a hands-on data analysis course at MIT that introduces the interplay
 between statistics and computation for the analysis of real data. The class includes a final project that is done in small groups. Our group has chosen a project that aims to quantify the impact of breaking news articles on stock performance. By analyzing news sentiment, we can better understand the market's reaction to news and make informed trading decisions.
 
 ## Idea and Motivation
